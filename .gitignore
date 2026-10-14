@@ -1,0 +1,7 @@
+/includes/config.local.php
+/logs/*
+!/logs/index.html
+/.vscode/
+*.zip
+*.log
+cookies.txt

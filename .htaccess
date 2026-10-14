@@ -1,0 +1,7 @@
+# KaziLink Apache Configuration (InfinityFree & Shared Hosting Compatible)
+# Note: "Options -Indexes" and "Options +FollowSymLinks" are strictly forbidden on InfinityFree and cause HTTP 500 errors.
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+</IfModule>
